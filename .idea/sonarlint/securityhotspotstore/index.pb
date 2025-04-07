@@ -5,3 +5,5 @@ Q
 !contracts/expense-management.clar,e/2/e2071d0e01e2f3d0c17bc741f235b936f75f19f2
 P
  tests/expense-management.test.ts,b/7/b755ae7832de8f2304ea23bb58b7f742d613ccd2
+L
+contracts/rental-income.clar,4/a/4ad733d879bee6af9e2576aaf8bf5894715890a7
